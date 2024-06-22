@@ -16,7 +16,7 @@ Welcome to the AI Learning Journey repository! This repository is designed to gu
 - **Computer Vision**: Explore image recognition, object detection, and image generation with AI.
 
 ### How to Use:
-1. **Clone the Repository**: `git clone https://github.com/yourusername/ai-learning-journey.git`
+1. **Clone the Repository**: `git clone https://github.com/aniketpichotra/ai-learning-journey.git`
 2. **Navigate the Modules**: Start with the `README.md` files in each module for an overview and instructions.
 3. **Contribute**: Share your projects, improvements, or additional resources via pull requests.
 
